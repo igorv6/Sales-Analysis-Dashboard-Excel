@@ -13,7 +13,7 @@ Details Table contains information details about the orders received: Amount,Cat
 Our data is in CSV file format so I used Power Query to import and clean the data. After having finishing checking
 cleaning the data,I load the dataset into the Excel worksheet. Since we have another dataset, I repeat the step again. To combine and analyze the two tables I used Power Pivot.
 
-# Step 3: Define Business questions 
+# Step 3: Defining Business questions 
 Before analyzing them, I need to define what I want to find. below are my  business questions for my analysis:
 1) How much is the amount of sales for each month?
 2) What are the profit for each month?
